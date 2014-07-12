@@ -1,0 +1,47 @@
+#titleBar {
+	position: relative;
+	height: 50px;
+	background-color: rgb(55,55,55);
+}
+
+#quickLinks {
+	position:absolute;
+	margin: 10px 20px;
+ 	height: 20px; 
+ 	padding: 5px 0;
+ 	color: white;
+}
+
+.titleLink {
+	text-decoration: none;
+	color: white;
+	font-family: Helvetica, sans-serif 
+}
+
+.titleLink:hover {
+	color: #FF9900;
+}
+
+h1,h2 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif;
+	font-style: normal;
+	font-size: 60px;
+}
+
+#aboutPart {
+	text-align: left;
+	margin-left: 4cm;
+	margin-right: 4cm;
+	font-family: "Book Antiqua", Times, serif;
+	font-size: 22px;
+}
+
+#teamPart {
+	text-align: center;
+	margin-left: 4cm;
+	margin-right: 4cm;
+	font-family: "Book Antiqua", Times, serif;
+	font-size: 25px;
+}
