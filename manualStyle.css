@@ -1,0 +1,49 @@
+#titleBar {
+	position: relative;
+	height: 50px;
+	background-color: rgb(55,55,55);
+}
+
+#quickLinks {
+	position:absolute;
+	margin: 10px 20px;
+ 	height: 20px; 
+ 	padding: 5px 0;
+ 	color: white;
+}
+
+.titleLink {
+	text-decoration: none;
+	color: white;
+	font-family: Helvetica, sans-serif 
+}
+
+.titleLink:hover {
+	color: #FF9900;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+body {
+	margin: 0;
+    padding: 0;
+}
+
+#screenShots {
+	 background-color: #EEEEEE;
+	 height: 1475px;
+	 width: 606px;
+	 float: left;
+	 margin-left: 50px;
+}
+
+#steps {
+	background-color: #EEEEEE;
+	height: 1475px;
+	width: 500px;
+	float: left;
+	margin-left: 50px;
+}
